@@ -1,0 +1,17 @@
+.singleCountry {
+  background-color: rgba(239, 235, 235, 0.9);
+  margin: 50px;
+  padding: 3px;
+  border-radius: 10px;
+}
+
+.singleCountry img {
+  height: 200px;
+  width: 300px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.countryName {
+  color: green;
+}
